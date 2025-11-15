@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My first commit for Linera Guild
+=======
+This is my second update
+>>>>>>> 8eb99e4 (Second commit for Linera Guild)
